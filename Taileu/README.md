@@ -40,3 +40,5 @@ Thách thức & thay đổi
 Cạnh tranh cao, thị trường ứng dụng rất đông → lập trình viên cần kỹ năng mới (AI, bảo mật, thiết kế trải nghiệm).
 
 Một số công việc cơ bản có thể bị AI tự động hóa (ví dụ viết code đơn giản, sinh UI tự động). Nhưng vai trò thiết kế giải pháp, sáng tạo tính năng, tối ưu trải nghiệm vẫn cần con người.
+3. output 
+![alt text](image.png)
